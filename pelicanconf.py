@@ -29,7 +29,8 @@ TRANSLATION_FEED_ATOM = None
 # menu items
 MENUITEMS = [('Home', SITEURL),
             ('About', SITEURL + '/about.html'),
-			('Github', 'https://github.com/'),]
+			('Github', 'https://github.com/'),
+			('我的博客园', 'http://www.cnblogs.com/y119777/'),]
 
 # Blogroll
 # LINKS = (('GitHub', 'https://github.com/kamidox'),)
